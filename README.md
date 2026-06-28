@@ -1,16 +1,13 @@
-## Hi there 👋
+## Howdy 🎏
 
-<!--
-**raohmaru/raohmaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a seasoned frontend engineer, sometimes full-stack, old enough to know the value of `a`.
+```js
+var i = 1;
+var a = + <!--i
+1;
+```
 
-Here are some ideas to get you started:
+I like to contribute to open source projects for the pleasure of learning. Please check [my repositories](https://github.com/raohmaru?tab=repositories) if you are corious about my work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently working on [Yet Another Brain Skill based on LLM Wiki + PARA + Obsidian](https://github.com/raohmaru/yenoo)
+- I’m currently learning AI Engineering
